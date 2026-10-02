@@ -81,11 +81,11 @@ a conversa continua, e é lá que você responde se discordar de algum ponto.
 
 ## 🗂️ As atividades
 
-| #   | Relatório                                                                                 | Aulas | Unidade | Prazo         |
-| --- | ----------------------------------------------------------------------------------------- | ----- | ------- | ------------- |
-| 01  | [A Régua do Observatório Econômico Municipal](atividade-01-a-regua-do-observatorio.ipynb) | 1–2   | U1      | dom **30/08** |
-| 02  | *em breve*                                                                                 | 3–4   | U1      | dom **06/09** |
-| 03  | *em breve*                                                                                 | 5–6   | U1      | dom **20/09** |
+| #   | Relatório                                                                                 | Aulas | Unidade |
+| --- | ----------------------------------------------------------------------------------------- | ----- | ------- |
+| 01  | [A Régua do Observatório Econômico Municipal](atividade-01-a-regua-do-observatorio.ipynb) | 1–2   | U1      |
+| 02  | [A Mesa de Operações da Fortuna Capital](atividade-02-a-mesa-de-operacoes-da-fortuna-capital.ipynb) | 3–4   | U1      |
+| 03  | *em breve*                                                                                 | 5–6   | U1      |
 
 > As demais atividades são publicadas ao longo do semestre. Quando uma nova
 > for liberada, o professor avisa e você sincroniza o repositório com o
